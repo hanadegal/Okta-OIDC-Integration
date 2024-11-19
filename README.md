@@ -16,10 +16,23 @@ This project demonstrates the integration of a custom OpenID Connect (OIDC) appl
 ### Step 1: Create OIDC Application in Okta
 1. Log in to your Okta tenant.
 2. Click on **Create Application Integration**.
+    <p align="center">
+OIDC App Selection via OIN: <br/>
+<img src="https://i.imgur.com/YHlSoxz.png" height="80%" width="80%" alt="OIN App Creation"/>
+<br />
+<br />
+
 3. Choose **OpenID Connect (OIDC)** as the sign-in method.
 4. Select **Single Page Application** as the application type.
+     <p align="center">
+Create App Integration via OIN: <br/>
+<img src="https://i.imgur.com/kn8hegO.png" height="80%" width="80%" alt="OIDC App Selection"/>
+<br />
+<br />  
 
-https://imgur.com/YHlSoxz
+
+
+
 
 ### Step 2: Configure Application
 1. Add a name for your application.
